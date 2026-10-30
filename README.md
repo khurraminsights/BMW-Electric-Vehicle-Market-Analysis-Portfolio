@@ -18,8 +18,6 @@
 
 </div>
 
-> **Banner:** Drag your final banner into the GitHub README editor **above this heading**; GitHub will insert a hosted image link. The banner is a conceptual illustration, not an authenticated BMW dashboard or a source of measured KPIs.
->
 > **Independence and data disclaimer:** This is an educational portfolio case study, not an official BMW analysis. The uploaded SQL script supplies small demonstration datasets; these are not verified BMW financials, global market shares or actual customer survey results. All findings below refer only to the sample records and stated SQL logic.
 
 ---
